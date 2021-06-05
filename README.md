@@ -1,4 +1,3 @@
+# Rock Paper Scissors
 
-#Rock Paper Scissors
-
-# with Python3
+# With Python3
